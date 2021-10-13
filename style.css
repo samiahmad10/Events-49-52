@@ -1,0 +1,78 @@
+.signin .sign-again
+{
+    text-align: center;
+    width: 500px;
+    position: absolute;
+    background-color: rgba(0,0, 0, 0.5);
+    margin-left: 550px;
+    margin-top: 150px;
+    color: white;
+    border-radius: 10px;
+}
+.signin .sign-again form img
+{
+    margin-top: -50px;
+}
+
+.signin .sign-again form h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.signin .sign-again form .name
+{
+    margin-left: -425px;
+    font-size: 20px;
+}
+.signin .sign-again form .username
+{
+    margin-left: -385px;
+    font-size: 20px;
+}
+.signin .sign-again form .password
+{
+    margin-left: -385px;
+    font-size: 20px;
+}
+
+.signin .sign-again form .password1
+{
+    margin-left: -310px;
+    font-size: 20px;
+}
+
+.signin .sign-again form .text1
+{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:white;
+    font-size: 16px;
+    width: 95%;
+}
+
+.signin .sign-again form .createbtn
+{
+    width: 95%;
+    height: 30px;
+    background-color: royalblue;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.signin .sign-again form .createbtn:hover
+{
+    background-color: lawngreen;
+    cursor: pointer;
+    color: black;
+}
